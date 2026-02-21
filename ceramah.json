@@ -1,0 +1,1298 @@
+{
+  "app": {
+    "status": true,
+    "report_email": "diananeka98@gmail.com",
+    "privacy_policy_url": "https://rizkidevs.blogspot.com/2021/02/privacy-policy.html",
+    "more_apps_url": "",
+    "redirect_url": ""
+  },
+  "ads": {
+    "ad_status": true,
+    "main_ads": "admob",
+    "backup_ads": "none",
+    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "ad_manager_banner_id": "/6499/example/banner",
+    "ad_manager_interstitial_id": "/6499/example/interstitial",
+    "ad_manager_rewarded_id": "/6499/example/rewarded",
+    "ad_manager_native_id": "/6499/example/native",
+    "ad_manager_app_open_id": "/6499/example/app-open",
+    "fan_banner_id": "YOUR_PLACEMENT_ID",
+    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
+    "fan_rewarded_id": "YOUR_PLACEMENT_ID",
+    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "startapp_app_id": "0",
+    "unity_game_id": "4089993",
+    "unity_banner_id": "banner",
+    "unity_interstitial_id": "video",
+    "unity_rewarded_id": "rewardedVideo",
+    "applovin_max_banner_id": "0",
+    "applovin_max_interstitial_id": "0",
+    "applovin_max_rewarded_id": "0",
+    "applovin_max_native_manual_id": "0",
+    "applovin_max_app_open_id": "0",
+    "applovin_discovery_banner_zone_id": "0",
+    "applovin_discovery_banner_mrec_zone_id": "0",
+    "applovin_discovery_interstitial_zone_id": "0",
+    "applovin_discovery_rewarded_zone_id": "0",
+    "ironsource_app_key": "85460dcd",
+    "ironsource_banner_id": "DefaultBanner",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "ironsource_rewarded_id": "DefaultRewardedVideo",
+    "interstitial_ad_interval": 3,
+    "native_ad_interval": 10,
+    "native_ad_index": 7,
+    "native_ad_style_audio_list": "medium",
+    "native_ad_style_exit_dialog": "medium",
+    "placement": {
+      "banner_home": true,
+      "interstitial_audio_list": true,
+      "rewarded_audio_download": true,
+      "native_ad_audio_list": true,
+      "native_ad_exit_dialog": true,
+      "app_open_ad_on_start": true,
+      "app_open_ad_on_resume": true
+    }
+  },
+  "categories": [
+  {
+      "title": "Ceramah Ramadhan",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg"
+    },
+  {
+      "title": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg"
+    },
+    {
+      "title": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg"
+    },
+    {
+      "title": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg"
+    },
+    {
+      "title": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg"
+    },
+    {
+      "title": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg"
+    },
+    {
+      "title": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg"
+    },
+    {
+      "title": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg"
+    }
+  ],
+  "songs": [
+  {
+      "id": 1,
+      "title": "Kisah Abu Jahal Dan Abu Lahab Rindu Bacaan Al Quran Rosulullah Ceramah KH Zainuddin MZ",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/KisahAbuJahalDanAbuLahabRinduBacaanAlQuranRosulullahCeramahKHZainuddinMZ/Kisah%20Abu%20Jahal%20dan%20Abu%20Lahab%20Rindu%20Bacaan%20Al%20Quran%20Rosulullah%20-%20Ceramah%20KH%20Zainuddin%20MZ.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 2,
+      "title": "Hukum Renternir Dalam Islam",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/KumpulanCeramahKhAnwarZahid/CeramahKh.AnwarZahid-HukumRentennirDalamIslam.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 3,
+      "title": "Apa Kamu Tahu Alasan Kenapa Kamu Hidup",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/APA%20KAMU%20TAHU%20ALASAN%20KENAPA%20KAMU%20HIDUP.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 4,
+      "title": "Apa Itu Sabar",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Apa%20Sebenarnya%20Toleransi.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 5,
+      "title": "Cara Memilih Jodoh",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ust%20Adi%20Hidayat%20%20-%20Cara%20Memilih%20Jodoh.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 6,
+      "title": "3 Tips Yang Ingin Berhijjrah",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/3%20Tips%20Yang%20Ingin%20Berhijrah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 7,
+      "title": "Aku Mencintaimu Karena Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstHananAttaki/Aku%20Mencintaimu%20Karena%20Allah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 8,
+      "title": "Al-Quran Imam Kita",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KH%20Zainuddin%20MZ%20-%20Al-Quran%20Imam%20Kita.mp3?rewarded=true,
+      "lyric": ""
+    },
+	{
+      "id": 9,
+      "title": "Idul Fitri Dan Hari Kemenangan",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/kumpulan-ceramah-kh-zainudin-mz/%20Idul%20Fitri%20Dan%20Hari%20Kemenangan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 10,
+      "title": "Arak dan Judi Racun Dunia",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KH%20Zainuddin%20MZ%20-%20Arak%20%26%20Judi%20Racun%20Kehidupan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 11,
+      "title": "Bila Doa Tak Terjawab",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KH%20Zainuddin%20MZ%20-%20Bila%20Doa%20Tak%20Terjawab%20A.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 12,
+      "title": "Cara Mendidik Anak",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KH%20Zainuddin%20MZ%20-%20Cara%20Mendidik%20Anak.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 13,
+      "title": "10 Golongan Teman Setan",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/Kh%20Zainuddin%20MZ%20-%2010%20golongan%20teman%20setan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 14,
+      "title": "Islam Dalam Semangat Kebersamaan",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KhZainuddinMz-IslamDalamSemangatKebersamaan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 15,
+      "title": "Memelihara Amal",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KhZainuddinMz-MemeliharaAmal.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 16,
+      "title": "Neraka dan Calon Penghuninya",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KhZainuddinMz-NerakaDanCalonPenghuninya.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 17,
+      "title": "Golongan Yang Mendapat Perlindungan Dari Allah",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KH%20Zainuddin%20MZ%20-%20Golongan%20Yang%20Mendapat%20Perlindungan%20Dari%20Allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 18,
+      "title": "Idul Fitri Dan Kemenangan",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KH%20Zainuddin%20MZ%20-%20Idul%20Fitri%20Dan%20Hari%20Kemenangan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 19,
+      "title": "Penyakit Rohani",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KhZainuddinMz-PenyakitRohani2Of2.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 20,
+      "title": "Taubat",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/BlogGalihKhZainuddinMz/KhZainuddinMz-Taubat.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 21,
+      "title": "Mari Berhaji",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/KHZainuddinMZ_201711/KH%20Zainuddin%20MZ%20-%20Mari%20Berhaji.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 22,
+      "title": "Para Kekasih Allah",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/KHZainuddinMZ_201711/KH%20Zainuddin%20MZ%20-%20Para%20Kekasih%20Allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 23,
+      "title": "3 Amin Rasulullah",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/3%20AMIN%20RASULULLAH.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 24,
+      "title": "Agar Kamu TIdak Kecewa",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/AGAR%20KAMU%20TIDAK%20KECEWA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 25,
+      "title": "Berlaku Adilah",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/BERLAKU%20ADILAH.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 26,
+      "title": "Doa Yang Tak Terkabul",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/DOA%20YANG%20TIDAK%20TERKABUL.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 27,
+      "title": "Hakikat Taubat",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/HAKIKAT%20TAUBAT.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 28,
+      "title": "Intropeksi Diri",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/INTROSPEKSI%20DIRI.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 29,
+      "title": "KunciPrtolongan Allah",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/KUNCI%20PERTOLONGAN%20ALLAH.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 30,
+      "title": "Islam Dalam Semangat Kebersamaan",
+      "category": "KH Zainuddin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "url": "https://archive.org/download/hakikat-taubat_202210/KUNCI%20PERTOLONGAN%20ALLAH.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 31,
+      "title": "Anak Itu Titipan",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Anak%20Iku%20Titipan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 32,
+      "title": "Beginilah Kondisi Generasi Z",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-5/Beginilah%20Kondisi%20Generasi%20Z.mp3?rewarded=true?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 33,
+      "title": "Apa Arti Keluarga",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Apa%20Arti%20Keluarga.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 34,
+      "title": "Ceramah Paling Ambyar",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Ceramah%20Paling%20Ambyar.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 35,
+      "title": "Ceramah Spesial Hari Ibu",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Ceramah%20Spesial%20Hari%20Ibu.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 36,
+      "title": "Ceramah Spesial Lebaran",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Ceramah%20Spesial%20Lebaran.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 37,
+      "title": "Dengar Cerita Ibu Ini Miris Banget",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Dengar%20Cerita%20Ibu%20Ini%20Miris%20Banget.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 38,
+      "title": "Godaan Setan Gepeng Bersama HP",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Godaan%20Setan%20Gepeng%20Bernama%20HP.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 39,
+      "title": "Gojlok Pak Camat dan Pak Polisi Lucu Pol",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Gojlog%20Pak%20Camat%20dan%20Polisi%20Lucu%20Puol.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 40,
+      "title": "Hidup Tanpa Cinta Bagai Bantal Tanpa Iler",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Hidup%20Tanpa%20Cinta%20Bagai%20BantaL%20Tanpa%20iLeR.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 41,
+      "title": "Ibu Ibu Wajib Tahu Dosa Yang Ini",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Ibu%20Ibu%20Wajib%20Tahu%20Dosa%20yang%20Ini.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 42,
+      "title": "Istri Yang Sering Konser",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Istri%20yang%20Sering%20Konser.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 43,
+      "title": "Jamaah Pengajian Pingin Minta Istri Dari Bojonegoro",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Jamaah%20Pengajian%20Pingin%20Minta%20Istri%20dari%20Bojonegoro.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 44,
+      "title": "Jamaah Saiki Kemenyek Panggil Bapak Ibu Papah Mamah ",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Jaman%20Saiki%20KEMENYEK%20%20panggil%20bapak%20ibu%20MAMAH%20PAPAH.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 45,
+      "title": "Janda Cantik Lepas Cadar Lucu Puol",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Janda%20Cantik%20Lepas%20Cadar%20Lucu%20Puol.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 46,
+      "title": "Lawas Tapi Tetap Mantap Di Hati",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Lawas%20Tapi%20Teatap%20Mantab%20Di%20Hati.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 47,
+      "title": "Nasihat Pernikahan Yang Paling Berkesan",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Nasehat%20Pernikahan%20yang%20Paling%20Berkesan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 48,
+      "title": "Koncone Yo Di Pikir Noo",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Koncone%20Yo%20Dipikir%20Nooo.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 49,
+      "title": "Niat Nggolek Jajan Ora Niat Ngaji Lucu Puol",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Niat%20Ngolek%20Jajan%20Ora%20Niat%20Ngaji%20Lucu%20Puol.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 50,
+      "title": "Resepe Ben Gak Mati Mati",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
+      "url": "https://archive.org/download/ceramah-anwar-zahid-3/Resepe%20Ben%20Gak%20Mati%20Mati.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 51,
+      "title": "Logika Al-Quran Mematikan",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-terbaru-gus-baha-ceramah-gus-baha-terbaru-2020-r-tt-xvfstmk/Ceramah%20Gus%20Baha%20Terbaru%20di%20Pesantren%20Gus%20Mus%20I%20Logika%20Al-Quran%20Mematikan_BuPbwrunn-M.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 52,
+      "title": "Misteri Ramalan Jayabaya Sudah Mulai Terjadi",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-terbaru-gus-baha-ceramah-gus-baha-terbaru-2020-r-tt-xvfstmk/GUS%20BAHA%20-%20MISTERI%20RAMALAN%20JAYABAYA%20TAHUN%202020%20SUDAH%20MULAI%20TERJADI..%21%21%21_IWigiA343pw.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 53,
+      "title": "Adab Ketika Memberi Sedekah Pahami Ini yang Sering Mengadakan Santunan",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/ADAB%20KETIKA%20MEMBERI%20SEDEKAH%20PAHAMI%20INI%20YANG%20SERING%20MENGADAKAN%20SANTUNAN.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 54,
+      "title": "Agama Itu Di mulai Dari Niat Dari Komitmen",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/AGAMA%20ITU%20DIMULAI%20DARI%20NIAT%20DARI%20KOMITMEN.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 55,
+      "title": "Apa Kamu Tahu Alasan Kamu Hidup",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/APA%20KAMU%20TAHU%20ALASAN%20KENAPA%20KAMU%20HIDUP.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 56,
+      "title": "Ayo Muhasabah Diri Pikiran Kita Kita Set Ulang",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/AYO%20MUHASABAH%20DIRI%20PIKIRAN%20KITA%20KITA%20SET%20ULANG.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 57,
+      "title": "Cara Ulama Mendidik Orang Agar Tidak Medit",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/CARA%20ULAMA%20MENDIDIK%20ORANG%20AGAR%20TIDAK%20MEDIT.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 58,
+      "title": "Fadilah Keutamaan Surat Al-Fatihah",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/FADILAH%20KEUTAMAAN%20SURAT%20ALFATIHAH.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 59,
+      "title": "Ilmu Tahuid Allah Tidak Membutuhkan Ibadahmu",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/ILMU%20TAUHID%20ALLOH%20TIDAK%20MEMBUTUHKAN%20IBADAHMU.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 60,
+      "title": "Ini Rahasia Kenapa Kiyai Alim Suka Bercanda",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/INI%20RAHASIA%20KENAPA%20KIYAI%20ALIM%20SUKA%20BERCANDA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 61,
+      "title": "Islam Justru Menang Dengan Akal Sehat dan Bebas Di Perdebatkan",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/ISLAM%20JUSTRU%20MENANG%20DENGAN%20AKAL%20SEHAT%20DAN%20BEBAS%20DIPERDEBATKAN.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 62,
+      "title": "Istighfar Kamu Di Terima Itu Setelah Tauidnya Benar",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/ISTIGFAR%20KAMU%20DITERIMA%20ITU%20SETELAH%20TAUHIDNYA%20BENAR.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 63,
+      "title": "Jangan Menghina Keluarga Nabi",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/JANGAN%20MENGHINA%20KELUARGA%20NABI.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 64,
+      "title": "Jangan Sampai Hal Suci Itu Menjadikan Kesombongan",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-2/JANGAN%20SAMPAI%20HAL%20SUCI%20ITU%20MENJADIKAN%20KESOMBONGAN.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 65,
+      "title": "Anggablah Nak Sebagai Penerus Sujudmu",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/%20Anggaplah%20Anak%20Sebagai%20Penerus%20Sujudmu.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 66,
+      "title": "Azab Terjadi Karena DOsa Di Masa Lalu",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Azab%20Terjadi%20Karena%20Dosa%20di%20Masa%20Lalu.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 67,
+      "title": "Bersyukur Pada Manusia Saja Tidak Bisa",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Bersyukur%20Pada%20Manusia%20Saja%20Tidak%20Bisa.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 68,
+      "title": "Bertemu Dengan Orang Aneh Prosedurnya Pasti Aneh",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Bertemu%20Orang%20Aneh%20Prosedurnya%20Pasti%20Aneh.mp3.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 69,
+      "title": "Bumi Menangis Saat Hal Ini Terjadi",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Bumi%20Menangis%20Saat%20hal%20ini%20Terjadi.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 70,
+      "title": "Cara Bahagia Setiap Hari",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Cara%20Bahagia%20Setiap%20Hari.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 71,
+      "title": "Cara Bersyukur Kepada Allah Dalam Kehidupan Sehari Hari",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Cara%20Bersyukur%20Kepada%20Allah%20Dalam%20Kehidupan%20Sehari%20Hari.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 72,
+      "title": "Dengan Cara Ini Masalah Berat Jadi Ringan",
+      "category": "Gus Baha",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-gus-baha-1/Dengan%20Cara%20ini%20Masalah%20Berat%20Jadi%20Ringan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 73,
+      "title": "Ustad Das'at Latif Super Lucu Ibu Ibu di Smash Bapak Bapak Kena Juga",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ustad-dasad-latif-super-lucu-ibu-ibu-di-smash-bapak-bapak-kena-juga-1/Ustad%20Das%27ad%20Latif%20Super%20Lucu%20Ibu-ibu%20di%20smash%20bapak-bapak%20kena%20juga%281%29.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 74,
+      "title": "Ustad Das'ad Latif Ceramah Buat Penonton Tidak Bisa Nahan Ketawa",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ustad-dasad-latif-ceramah-buat-penonton-tidak-bisa-nahan-ketawa/Ustad%20Das%27ad%20Latif%20Ceramah%20buat%20penonton%20tidak%20bisa%20nahan%20KETAWA%20%F0%9F%A4%A3%F0%9F%A4%A3%F0%9F%A4%A3.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 75,
+      "title": "Kocak Tapi Penuh Hikmah",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ustad-dasad-latif-terbaru-2021-masjid-an-nur-riau-super-seru-super-kocak-penuh-hikmah-128-kbps/Ustad%20Das%27ad%20Latif%20Terbaru%202021%20MASJID%20AN-NUR%20RIAU%20SUPER%20SERU%20SUPER%20KOCAK%20PENUH%20HIKMAH%20%28128%20kbps%29.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 76,
+      "title": "Apa Sebenarnya Toleransi",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Apa%20Sebenarnya%20Toleransi.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 77,
+      "title": "Ayo Berkurban",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Ayo%20Ber%20Qurban.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 78,
+      "title": "Cara Keluar Dari Grub Yang Nakal",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Cara%20Keluar%20dari%20Grup%20%20yang%20Nakal.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 79,
+      "title": "Ceramah Akhir Tahun",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Ceramah%20Akhir%20Tahun.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 80,
+      "title": "Ceramah Kocak Tentang Puasa",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Ceramah%20Kocak%20Tentang%20Puasa.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 81,
+      "title": "Dakwah Perlu Strategi",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Dakwah%20PERLU%20Strategi.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 82,
+      "title": "Doa Anak Menjadi Aset Akhirat Kita",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Doa%20Anak%20menjadi%20ASET%20AKHIRAT%20KITA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 83,
+      "title": "Tips untuk IBU IBU CANTIK di Rumah",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-4/%20Tips%20untuk%20IBUIBU%20CANTIK%20di%20Rumah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 84,
+      "title": "Istriku Lebih Cantik",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Istriku%20Lebih%20Cantik.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 85,
+      "title": "Kenapa Janji Di Surga Untuk Laki Laki 7 Bidadari",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Kenapa%20Janji%20Disurga%20untuk%20Laki%20Laki%207%20Bidadari.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 86,
+      "title": "Kunci Sukses",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Kunci%20Sukses.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 87,
+      "title": "Pelajaran Dari Perang Uhud Untuk Kita",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Pelajaran%20dari%20Perang%20Uhud%20Untuk%20Kita.mp3.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 88,
+      "title": "Anakmu Assetmu",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-3/Anakmu%20AssetMU.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 89,
+      "title": "Motivasi Untuk Para Pelajar Pemuda Mahasiswa",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Motivasi%20untuk%20para%20pelajar%20Pemuda%20Mahasiswa.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 90,
+      "title": "Muliakan Orang Tua",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Muliakan%20Orang%20Tua.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 91,
+      "title": "Nasihat Pernikahan Buat Pengantinnya Senyum Senyum",
+      "category": "Ustadz Das'ad Latif",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Nasehat%20pernikahan%20buat%20Pengantinnya%20Senyum2.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 92,
+      "title": "6 Konsep Pendidikan Anak Dalam Al-Quran dan Sunnah",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/6-konsep-pendidikan-anak-dalam-al-quran-dan-sunnah-ustadz-adi-hidayat-lc-ma/6-konsep-pendidikan-anak-dalam-al-quran-dan-sunnah-ustadz-adi-hidayat-lc-ma.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 93,
+      "title": "Cara Memilih Jodoh",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ust%20Adi%20Hidayat%20%20-%20Cara%20Memilih%20Jodoh.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 94,
+      "title": "Cara Menhilangkan Rasa Takut Pada Hantu",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ust%20Adi%20Hidayat%20%20-%20Cara%20Menghilangkan%20Rasa%20Takut%20Pada%20Hantu%20%20.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 95,
+      "title": "Cara Menyikapi Mertua Yang Tidak Menyukai Menantunya",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ust%20Adi%20hidayat%20%20-%20Cara%20Menyikapi%20Mertua%20Yg%20Tidak%20Menyukai%20Menantunya.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 96,
+      "title": "Amalan Sederhana Ini Pahalannya Terus Mengalir",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Amalan%20Sederhana%20Ini%20Pahalanya%20Terus%20Mengalir.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 97,
+      "title": "Anak Susah Berbakti",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Anak%20Susah%20Berbakti%20%20.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 98,
+      "title": "Bagaimana Sikap Menantu Pada Mertua",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Bagaimana%20Sikap%20Menantu%20Kepada%20Mertua.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 99,
+      "title": "Bahagia Itu Sederhana",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Bahagia%20itu%20Sederhana.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 100,
+      "title": "Bukti Kebenaran Nabi Tentang Qolbu",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Bukti%20Kebenaran%20Nabi%20tentang%20Qolbu.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 101,
+      "title": "Cara Beristighfarnya Nabi",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Cara%20Beristighfarnya%20Nabi.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 102,
+      "title": "Cukup Bismillah Di Setiap Aktifitas",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Cukup%20Bismillah%20di%20Setiap%20Aktivitas.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 103,
+      "title": "Inilah Amalan Agar Istri Di Rahmati Allah",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20INILAH%20Amalan%20Agar%20Istri%20di%20RAHMATI%20Allah%20.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 104,
+      "title": "Inilah Yang Melahirkan Karakter Kita",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Inilah%20yg%20Melahirkan%20Karakter%20kita%20%20.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 105,
+      "title": "Jodoh Terbaik",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Jodoh%20Terbaik.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 106,
+      "title": "Kunci Hidup Tenang",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Kunci%20Hidup%20Tenang%20.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 107,
+      "title": "Luar Biasannya Istighfar",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Luar%20biasa%20nya%20Istighfar.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 108,
+      "title": "Memahami Penyebab Kegelisahan Jiwa",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Memahami%20Penyebab%20Kegelisahan%20Jiwa%20%20.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 109,
+      "title": "Paling Ampuh Untuk Hati",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Paling%20Ampuh%20untuk%20HATI.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 110,
+      "title": "Perbanyyak Berdo'a Ketika Sholat Agar Cepat Di Kabulkan",
+      "category": "Ustadz Adi Hidayat",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
+      "url": "https://archive.org/download/UstadzAdiHidayat2/Ustadz%20Adi%20Hidayat%20%20-%20Perbanyak%20Berdoa%20Ktika%20Shalat%20Agr%20Cepat%20Dikabulkan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 111,
+      "title": "3 Tips Yang Ingin Berhijrah",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/3%20Tips%20Yang%20Ingin%20Berhijrah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 112,
+      "title": "4 Rahasia Ketenangan Hati",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/4%20Rahasia%20Ketenangan%20Hati%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 113,
+      "title": "5 Hal Penting Hidup Di Usia 18 Tahun",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/5%20Hal%20Penting%20Hidup%20di%20Usia%2018%20Tahun%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 114,
+      "title": "7 Ciri Kepemimpinan Rasulullah",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/7%20Ciri%20Kepemimpinan%20Rasulullah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 115,
+      "title": "Ada 4 Poin Lebih Berharga Dari Pada Dunia",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Ada%204%20Poin%20Lebih%20Berharga%20Daripada%20Dunia%20%20%20Ustadz%20Abdul%20Somad%2C%20Lc%20%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 116,
+      "title": "Akan Datang Suatu Zaman",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Akan%20Datang%20Suatu%20Zaman%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 117,
+      "title": "Amalan Menghapus Dosa Dan Mengangkat Derajat",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Amalan%20menghapus%20dosa%20dan%20mengangkat%20derajat%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 118,
+      "title": "Ciri-Ciri Orang Yang Mendapat Hidayah",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Ciri-Ciri%20Orang%20Yang%20Mendapat%20hidayah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 119,
+      "title": "Detik Detik Sakaratul Maut",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Detik-detik%20Sakaratul%20Maut%20-%20Ust.Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 120,
+      "title": "Jangan Terjebak Pada Istilah",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Jangan%20Terjebak%20Pada%20Istilah%20-%20Ust%20Abdul%20Somad.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 121,
+      "title": "Kemenangan Yang Nyata",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Kemenangan%20Yang%20Nyata%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 122,
+      "title": "Ketika Roh Bertemu Jasad",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Ketika%20Roh%20Bertemu%20Jasad%20-%20%20UST%20ABDUL%20SOMAD.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 123,
+      "title": "Siapakah Orang Alim Yang Munafik",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/Siapakah%20Orang%20Alim%20yang%20Munafik%20%D8%9F%20-%20Ustadz%20Abdul%20Somad%20Lc%20%2C%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 124,
+      "title": "Ternyata Ini Fungsi Wudhu Dan Larangannya",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/CeramahUstadzAbdulSomad/TERNYATA%20INI%20FUNGSI%20WUDHU%20DAN%20LARANG%20KETIKA%20SHALAT%20FULL%20CERAMAH%20USTADZ%20ABDUL%20SOMAD%20Lc%2C%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 125,
+      "title": "Agar Al-Quran Hidup Di Hati",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/UASAGARALQURANHIDUPDIHATIUstadzAbdulSomadLc.MAKualaLumpur6Jan.201919Feb2019/UAS%20%7C%20AGAR%20AL-QURAN%20HIDUP%20DI%20HATI%20%7C%20Ustadz%20Abdul%20Somad%2C%20Lc.%20MA%20%7C%20Kuala%20Lumpur%2C%206%20Jan.%202019%20%7C%2019%20Feb%202019.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 126,
+      "title": "Menghidupkan Al-Quran Di Hidup Kita",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/MenghidupkanAlQuranDiHidupKitaUstadzAbdulSomadLc.MA/Menghidupkan%20Al-Quran%20diHidup%20Kita%20-%20Ustadz%20Abdul%20Somad%2C%20Lc.%20MA.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 127,
+      "title": "2 Surat Untuk Perlindungan Diri",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/UAS2SURATUNTUKPERLINDUNGANDIRIALFALAQANNAASTadabburEps611Feb2019/UAS%20%7C%202%20SURAT%20UNTUK%20PERLINDUNGAN%20DIRI%20%28AL-FALAQ%20%26%20AN-NAAS%29%20%7C%20Tadabbur%20Eps%20%236%20%7C%2011%20Feb%202019.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 128,
+      "title": "Sholat Amalan Pertama Yang Di Hisab",
+      "category": "10 Keutamaan Perempuan",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/10KeutamaanPerempuanUstadzAbdulSomadLc.MAJakarta_201711/10%20Keutamaan%20Perempuan%20-%20Ustadz%20Abdul%20Somad%2C%20Lc.%20MA%20%28Jakarta%29.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 129,
+      "title": "5 Hikmah Isra Miraj",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/ceramah-ustadz-abdul-somad-1/5%20HIKMAH%20ISRA%20MIRAJ%20-%20Ustadz%20Abdul%20Somad.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 130,
+      "title": "7 Pesan Nabi Untuk Ibnu Abbas",
+      "category": "Ustadz Abdul Somad",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzabdulsomad.jpg",
+      "url": "https://archive.org/download/ceramah-ustadz-abdul-somad-1/7%20PESAN%20NABI%20UNTUK%20IBNU%20ABBAS%20-%20Ustadz%20Abdul%20Somad.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 131,
+      "title": "Belajar Yakin Pada Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/03%20belajar-yakin-pada-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 132,
+      "title": "Bentuk Cinta Rasulullah Terhadap Ummatnya",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/04%20bentuk-cinta-rasulullah-terhadap-umatnya.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 133,
+      "title": "Bercanda Dengan Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/05%20bercanda-dengan-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 134,
+      "title": "Bermanja Dengan Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/06%20bermanja-dengan-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 135,
+      "title": "Cara Allah Menolong Hambannya",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/07%20cara-allah-menolong-hambanya.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 136,
+      "title": "Ciri Orang Yang Tidak mengenal Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/10%20ciri-orang-yang-tidak-mengenal-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 137,
+      "title": "Curhatlah Sama Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/11%20curhatlah-sama-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 138,
+      "title": "Emosi Itu Fitrahnya Anak Muda",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/12%20emosi-itu-fitrahnya-anak-muda.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 139,
+      "title": "Ingatlah Allah Maka Allah Akan Mengingatmu",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/14%20ingatlah-allah-maka-allah-akan-mengingatmu.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 140,
+      "title": "Jaga Allah Maka Allah Akan Menjagamu",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/15%20jaga-allah-maka-allah-akan-jaga-kamu.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 141,
+      "title": "Jaminan Istana di Tengah Surga",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/16%20jaminan-istana-di-tengah-surga.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 142,
+      "title": "Janji Allah Kepada Orang Yang Berdoa",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/17%20janji-allah-kepada-orang-yang-berdoa.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 143,
+      "title": "Ketahuilah Allah Itu Sayang Kita",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/19%20ketahuilah-allah-itu-sayang-sama-kita.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 144,
+      "title": "Masuk Islam Tapi Masih Berbuat Dosa",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/20%20masuk-islam-tapi-masih-berbuat-dosa.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 145,
+      "title": "Memosting Kebaikan",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/21%20memposting-kebaikan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 146,
+      "title": "Ngeoin Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/22%20ngepoin-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 147,
+      "title": "Obat Galau",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/23%20obat-galau.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 148,
+      "title": "Percaya Deh Sama Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/24%20percaya-deh-sama-allah-ust-tengku-hanan-attaki-lc.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 149,
+      "title": "Pertolongan Ajaib Allah",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/26%20pertolongan-ajaib-allah.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 150,
+      "title": "Yuk Memperbaiki Diri",
+      "category": "Ustadz Hanan Attaki",
+      "image": "https://laksarra.github.io/gambar/ustadz/ustadzhananattaki.jpg",
+      "url": "https://archive.org/download/CeramahUstadzHananAttaki/30%20yuk-memperbaiki-diri-ust-tengku-hanan-attaki.mp3?rewarded=true",
+      "lyric": ""
+    }
+  ]
+}
+
+
