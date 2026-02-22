@@ -92,10 +92,90 @@
     }
   ],
   "songs": [
+		{
+      "id": 1,
+      "title": "Ceramah Lucu Kh Anwar Zahid Menyambut Bulan Ramadhan",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHAnwarZahidTemaRamadhan/CERAMAH%20LUCU%20KH%20Anwar%20Zahid%20%20I%20%20Menyambut%20Ramadhan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 2,
+      "title": "Rahasia Puasa Ramadhan",
+      "category": "KH Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHAnwarZahidTemaRamadhan/Rahasia%20Puasa%20Ramadhan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 3,
+      "title": "Sholat Tarawih Versi Kh Anwar Zahid kecepatan 400km Jam Pasti Ngakak",
+      "category": "Kh Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHAnwarZahidTemaRamadhan/Sholat%20Tarawih%20Versi%20KH%20Anwar%20Zahid%20Kecepatan%20400KMJam%20Pasti%20Ngakak%20Pengajian%20Ramadhan%202017.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 4,
+      "title": "Spesial Ramadhan",
+      "category": "Kh Anwar Zahid",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHAnwarZahidTemaRamadhan/Special%20Ramadhan%20-%20Pengajian%20Lucu%20KH%20ANWAR%20ZAHID%20Juni%202017.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 5,
+      "title": "6 Kebiasanaan Perusak Puasa Ramadhan",
+      "category": "Kh Zainudin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHZainudinMZTemaRamadhan/Awas%21%206%20Kebiasaan%20Perusak%20Puasa%20Ramadhan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 6,
+      "title": "Ceramah Menjelang Puasa Ramadhan",
+      "category": "Kh Zainudin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHZainudinMZTemaRamadhan/Ceramah%20Menjelang%20Bulan%20Ramadhan.mp3?rewarded=true",
+      "lyric": ""
+    },
+	{
+      "id": 7,
+      "title": "Hikmah Puasa",
+      "category": "Kh Zainudin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHZainudinMZTemaRamadhan/Hikmah%20Berpuasa.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 8,
+      "title": "Pelajaran Beharga Di Bulan Ramadhan",
+      "category": "Kh Zainudin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHZainudinMZTemaRamadhan/Pelajaran%20Berharga%20Di%20Bulan%20Ramadhan.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 9,
+      "title": "Ramadhan Idul Fitri",
+      "category": "Kh Zainudin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/CeramahKHZainudinMZTemaRamadhan/Ramadhan%20Idul%20Fitri.mp3?rewarded=true",
+      "lyric": ""
+    },
+    {
+      "id": 10,
+      "title": "Tabligh Akbar Ramadhan 1431H",
+      "category": "Kh Zainudin MZ",
+      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
+      "url": "https://archive.org/download/Kh.zainudinMz-TablighAkbarRamadhan1431h/TablighAkbar1431h-PuasaAnggotaTubuhOlehZainudinMz2010-08-14.mp3?rewarded=true",
+      "lyric": ""
+    },
 	{
       "id": 1,
-      "title": "Ustadz Yusuf Mansur",
-      "category": "Ceramah Ramadhan",
+      "title": "Ceramah Ramadhan",
+      "category": "Ustadz Yusuf Mansur",
       "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
       "url": "https://archive.org/download/CeramahRamadhanYusufMansur/CeramahYangMenyentuhHatiUstadYusufMansyur-AmalanBaikDiBulanRamadhan.mp3?rewarded=true",
       "lyric": ""
@@ -173,7 +253,7 @@
       "lyric": ""
     },
     {
-      "id": 10,
+      "id": 1,
       "title": "Kisah Abu Jahal Dan Abu Lahab Rindu Bacaan Al Quran Rosulullah Ceramah KH Zainuddin MZ",
       "category": "KH Zainuddin MZ",
       "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg",
@@ -1374,6 +1454,7 @@
     }
   ]
 }
+
 
 
 
